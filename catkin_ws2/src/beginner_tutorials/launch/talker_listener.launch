@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+<node name="talker1" pkg="beginner_tutorials" type="talker" output="screen"/>
+<node name="listener1" pkg="beginner_tutorials" type="listener" output="screen"/>
+
+</launch>
